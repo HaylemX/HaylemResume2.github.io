@@ -142,10 +142,10 @@ p {
 }
 
 .back:hover {
-  background-position: -700px;
-  padding:100px;
+  background-position: -500px;
+  padding:20px;
   background-image: url("https://wallpaperaccess.com/full/678650.jpg");
-  font-size:100px;
+  font-size:50px;
  display: inline-block;
 }
 
